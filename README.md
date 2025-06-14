@@ -1,2 +1,0 @@
-# Trimi
-lista de canales
